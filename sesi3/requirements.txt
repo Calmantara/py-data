@@ -1,0 +1,12 @@
+certifi==2024.7.4
+cffi @ file:///private/tmp/cffi-20231211-40239-j25k6o/cffi-1.16.0
+flake8==7.0.0
+greenlet==3.0.3
+mccabe==0.7.0
+msgpack==1.0.8
+numpy==2.0.0
+pycodestyle==2.11.1
+pycparser==2.22
+pyflakes==3.2.0
+pynvim==0.5.0
+wheel @ file:///opt/homebrew/Cellar/python%403.12/3.12.4/libexec/wheel-0.43.0-py3-none-any.whl#sha256=ff23205a590f2b902a2a21151019e96b93ab4a1409d7c9748b6bd210f4c0f44d
